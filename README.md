@@ -13,6 +13,6 @@ Pre-requisites:
 
 ==================================================
 
-We are using inputs from gyroscope sensor, and push buttons: one for start/stop and other for fire, realaying the data to Processing through Arduino and using it as inputs for running the game.
+We are using inputs from gyroscope sensor, and push buttons: one for start/stop and other for fire, relaying the data to Processing through Arduino and using it as inputs for running the game.
 
 Sample Youtube Video:   https://www.youtube.com/watch?v=pUqISgHpKUU
