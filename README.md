@@ -18,4 +18,5 @@ We are using inputs from gyroscope sensor, and push buttons: one for start/stop 
 
 ## Working Demo
 [Youtube Video](https://www.youtube.com/watch?v=pUqISgHpKUU)
+
 [Blog Article](https://onthinice935902688.wordpress.com/2019/11/12/prototyping-interactive-systems/)
